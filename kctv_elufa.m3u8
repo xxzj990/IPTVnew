@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+error: Unable to open URL: https://api.twitch.tv/kraken/users.json (404 Client Error: Not Found for url: https://api.twitch.tv/kraken/users.json?as3=t&login=kctv_elufa)
